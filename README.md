@@ -8,4 +8,4 @@ Some previous analytics work was done on the Eurovision contest through the Pand
   - An update work covering the same material now using solely the Polars library.
   - Biggest conceptual differences? The usage of joins in favour of splicing columns and the lack of indexing.
 
-This migration was also made possible thanks to this [cheat sheet](https://www.rhosignal.com/posts/polars-pandas-cheatsheet/), so this site deserve credit as well.
+This migration was also made possible thanks to this [cheat sheet](https://www.rhosignal.com/posts/polars-pandas-cheatsheet/), so this site deserves credit as well.
