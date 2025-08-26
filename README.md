@@ -1,6 +1,6 @@
 # Polars (Eurovision) Analytics
 
-Some previous analytics work was done on the Eurovision contest through the Pandas library, and now it has been rewritten using the Polars library. There are probably some sloppy patches that could have been better thought out and written, but both files are practically the same and easy enough to follow to serve as a reference on how to do something in Polars coming from Pandas.
+Some previous analytics work was done on the Eurovision contest using the Pandas library, and now it has been rewritten using the Polars library. There are probably some sloppy patches that could have been better designed and written, but both files are practically the same and easy enough to follow to serve as a reference on how to do something in Polars coming from Pandas.
 - #### Pandas.
   - The original work covering the results of the Eurovision contest from 1956 to 2019 is all there.
   - Some updates were made to Matplotlib charts.
